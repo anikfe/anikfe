@@ -3,6 +3,8 @@
 <!--
 **anikfe/anikfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Enthusiastic and motivated individual with a keen interest in data science. Currently undertaking a Data Science Bootcamp with HyperionDev to develop my skills in Python, data analysis, machine learning and neural networks. Seeking an opportunity to apply my knowledge and further develop professionally in a data science role.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on finishing the Data Science Bootcamp with HyperionDev
